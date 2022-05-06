@@ -1,2 +1,2 @@
 # autoTest
-web
+apitest
